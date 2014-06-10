@@ -1,0 +1,71 @@
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-104.9880331,39.70963867]
+    },
+    "properties": {
+      "title": "Starbucks #1",
+      "description": "381 S Broadway",
+      "marker-color": "#fc4353",
+      "marker-size": "large",
+      "marker-symbol": "monument"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-104.9729565, 39.71135378]
+    },
+    "properties": {
+      "title": "Starbucks #2",
+      "description": "1209 E Alameda Ave",
+      "marker-color": "#fc4353",
+      "marker-size": "large",
+      "marker-symbol": "harbor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-104.9527596, 39.74054004]
+    },
+    "properties": {
+      "title": "Starbucks #3",
+      "description": "2975 E Colfax Ave",
+      "marker-color": "#fc4353",
+      "marker-size": "large",
+      "marker-symbol": "harbor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-105.0011131, 
+39.73966236]
+    },
+    "properties": {
+      "title": "Starbucks #4",
+      "description": "1050 W Colfax Ave",
+      "marker-color": "#fc4353",
+      "marker-size": "large",
+      "marker-symbol": "harbor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-104.9738003, 39.73154915]
+    },
+    "properties": {
+      "title": "Starbucks #5",
+      "description": "1155 E 9th Ave",
+      "marker-color": "#fc4353",
+      "marker-size": "large",
+      "marker-symbol": "harbor"
+    }
+  }
